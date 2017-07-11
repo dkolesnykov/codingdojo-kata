@@ -1,0 +1,2 @@
+# codingdojo-kata
+Some katas
